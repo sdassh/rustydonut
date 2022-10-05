@@ -1,4 +1,4 @@
-// Famous 3d ASCII donut, revwritten in rust. 
+// Famous 3d ASCII donut, rewritten in rust. 
 // Original article: https://www.a1k0n.net/2011/07/20/donut-math.html
 fn main(){
     let (mut a, mut b):(f32,f32) = (0.,0.);
